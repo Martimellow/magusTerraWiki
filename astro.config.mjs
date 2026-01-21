@@ -6,19 +6,38 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'MagusTerra',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Zones',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+						{
+							label: 'Howling Timber',
+							items: [
+								{ label: 'Silver Moon Trackers', slug: 'zones/howlingtimber/silvermoontrackers' },
+								{ label: 'Vehkmosss', slug: 'zones/howlingtimber/vehkmoss' }
+							]
+						}
+					]
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Races',
+					items: [
+						{
+							label: 'Vehkran',
+							items: [
+								{ label: 'Vehkran', slug: 'races/vehkran' },
+								{ label: 'Sangvehk', slug: 'races/sangvehk' }
+							]
+						},
+						{ label: 'Efos', slug: 'races/efos' },
+						{ label: 'Halflings', slug: 'races/halflings' },
+					]
+				},
+				{
+					label: 'Cosmos',
+					autogenerate: { directory: 'cosmos' },
 				},
 			],
 		}),
