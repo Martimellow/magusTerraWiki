@@ -8,4 +8,4 @@ Sangvehk is a substance in [Vehkran](/races/vehkran/) blood that influences how 
 Sangvehk is primarily transmitted through a [Vehkra's](/races/vehkran/) fangs during a bite. However it resides in the blood stream so if contaminated blood gets mixed with an individuals blood the Sangvehk will start to grow/multiply.
 
 ## Treatment
-The only way to manage Sangvehk levels is through [Vehkmoss](/zones/howlingTimber/vehkmoss).
+The only way to manage Sangvehk levels is through [Vehkmoss](/zones/howlingtimber/vehkmoss).

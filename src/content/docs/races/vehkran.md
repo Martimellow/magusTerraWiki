@@ -5,13 +5,13 @@ title: Vehkran
 # Vehkran
 The Vehkran are the half man half wolf species of MagusTerra.
  
-There are two primary types of Vehkran, the Civilized and the Feral. Vehkran naturally accumulates a substance in their body known as [Sangvehk](./sangvehk.md), there is an individual specific threshold for all Vehkran that determines how much sangvehk it takes for them to turn feral. Once they are turned feral they can regain consciousness by lowering their sangvehk levels but it is very difficult to accomplish this because a feral Vehkra doesn't try to reduce their sangvehk levels, so the burden is placed upon others to subdue and lower the feral's levels.
+There are two primary types of Vehkran, the Civilized and the Feral. Vehkran naturally accumulates a substance in their body known as [Sangvehk](/races/sangvehk/), there is an individual specific threshold for all Vehkran that determines how much sangvehk it takes for them to turn feral. Once they are turned feral they can regain consciousness by lowering their sangvehk levels but it is very difficult to accomplish this because a feral Vehkra doesn't try to reduce their sangvehk levels, so the burden is placed upon others to subdue and lower the feral's levels.
 
 # Basic Information
 ## Genetics and Reproduction
-Vehkra can either be reproduced through birth or they can be transformed from a Vehkran Bite. When a Vehkra bites someone they can release Sangvehk through glands in their fangs which if left untreated will turn the individual into a Vehkra. Typically it takes a few days for a Vehkra bite to cause a transformation as the Sangvehk needs to build up in the body but it depends on the lunar cycle as [sangvehk](/racees/sangvehk) is more potent during an enlarged [Vibrant Moon](/cosmos/vibrantmoon). 
+Vehkra can either be reproduced through birth or they can be transformed from a Vehkran Bite. When a Vehkra bites someone they can release Sangvehk through glands in their fangs which if left untreated will turn the individual into a Vehkra. Typically it takes a few days for a Vehkra bite to cause a transformation as the Sangvehk needs to build up in the body but it depends on the lunar cycle as [sangvehk](/races/sangvehk/) is more potent during an enlarged [Vibrant Moon](/cosmos/vibrantmoon). 
  
-If the bitten individual is treated with [Vehkmoss](/zones/howlingTimber/vehkmoss) before the sangvehk accumulates too much they can avoid transforming into a Vehkra. But once the sangvehk has reached a certain limit the individual will transform into a Vehkra and be stuck that way for the rest of their life constantly managing their sangvehk levels to ensure they don't become feral.
+If the bitten individual is treated with [Vehkmoss](/zones/howlingtimber/vehkmoss) before the sangvehk accumulates too much they can avoid transforming into a Vehkra. But once the sangvehk has reached a certain limit the individual will transform into a Vehkra and be stuck that way for the rest of their life constantly managing their sangvehk levels to ensure they don't become feral.
 
 ## Behavior
 ### Feral Vehkran
