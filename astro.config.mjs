@@ -1,45 +1,56 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import UnoCSS from 'unocss/astro'
+
+// import starlight from '@astrojs/starlight';
+import Icons from 'starlight-plugin-icons';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
-		starlight({
-			title: 'MagusTerra',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'Zones',
-					items: [
-						{
-							label: 'Howling Timber',
-							items: [
-								{ label: 'Silver Moon Trackers', slug: 'zones/howlingtimber/silvermoontrackers' },
-								{ label: 'Vehkmosss', slug: 'zones/howlingtimber/vehkmoss' }
-							]
-						}
-					]
-				},
-				{
-					label: 'Races',
-					items: [
-						{
-							label: 'Vehkran',
-							items: [
-								{ label: 'Vehkran', slug: 'races/vehkran' },
-								{ label: 'Sangvehk', slug: 'races/sangvehk' }
-							]
-						},
-						{ label: 'Efos', slug: 'races/efos' },
-						{ label: 'Halflings', slug: 'races/halflings' },
-					]
-				},
-				{
-					label: 'Cosmos',
-					autogenerate: { directory: 'cosmos' },
-				},
-			],
+		UnoCSS(),
+		Icons({
+			// social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			sidebar: true,
+			extractSafelist: true,
+			starlight: {
+				title: 'MagusTerra',
+				sidebar: [
+					{
+						label: 'Zones',
+						items: [
+							{
+								label: 'Howling Timber',
+								items: [
+									{ icon: 'i-game-icons:night-sky', label: 'Silver Moon Trackers', slug: 'zones/howlingtimber/silvermoontrackers' },
+									{ icon: 'i-game-icons:herbs-bundle', label: 'Vehkmosss', slug: 'zones/howlingtimber/vehkmoss' }
+								]
+							}
+						]
+					},
+					{
+						label: 'Races',
+						items: [
+							{
+								label: 'Vehkran',
+								items: [
+									{ icon: 'i-game-icons:wolf-howl', label: 'Vehkran', slug: 'races/vehkran' },
+									{ icon: 'i-game-icons:biohazard', label: 'Sangvehk', slug: 'races/sangvehk' }
+								]
+							},
+							{ icon: 'i-game-icons:bird-claw', label: 'Efos', slug: 'races/efos' },
+							{ icon: 'i-game-icons:slingshot', label: 'Halflings', slug: 'races/halflings' },
+						]
+					},
+					{
+						label: 'Cosmos',
+						items: [
+							{ icon: 'i-wi:moon-waning-crescent-3', label: 'Dull Moon', slug: 'cosmos/dullmoon' },
+							{ icon: 'i-wi:moon-waxing-crescent-4', label: 'Vibrant Moon', slug: 'cosmos/vibrantmoon' },
+						]
+					},
+				],
+			},
 		}),
 	],
 });
