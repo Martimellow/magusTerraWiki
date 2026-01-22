@@ -16,6 +16,7 @@ export default defineConfig({
     'i-game-icons:slingshot',
     'i-game-icons:person',
     'i-game-icons:gold-mine',
+    'i-game-icons:castle',
 
     // weather icons
     'i-wi:moon-waning-crescent-3',
