@@ -7,6 +7,8 @@ import Icons from 'starlight-plugin-icons';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://martimellow.github.io',
+	base: 'magusTerraWiki',
 	integrations: [
 		UnoCSS(),
 		Icons({
