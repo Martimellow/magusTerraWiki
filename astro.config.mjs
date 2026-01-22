@@ -26,6 +26,14 @@ export default defineConfig({
 								items: [
 									{ icon: 'i-game-icons:night-sky', label: 'Silver Moon Trackers', slug: 'zones/howlingtimber/silvermoontrackers' },
 									{ icon: 'i-game-icons:herbs-bundle', label: 'Vehkmosss', slug: 'zones/howlingtimber/vehkmoss' }
+								],
+							},
+							{
+								label: 'The Southlands',
+								items: [
+									{ icon: 'i-game-icons:castle', label: 'Maeloch', slug: 'zones/southlands/maeloch' },
+									{ icon: 'i-game-icons:gold-mine', label: 'Beckforge', slug: 'zones/southlands/beckforge' },
+									{ icon: 'i-game-icons:person', label: 'James Meadowford', slug: 'zones/southlands/jamesmeadowford' }
 								]
 							}
 						]

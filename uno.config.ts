@@ -1,10 +1,3 @@
-// import { defineConfig } from 'unocss'
-// import { presetStarlightIcons } from 'starlight-plugin-icons/uno'
-
-// export default defineConfig({
-//   presets: [presetStarlightIcons()],
-// })
-
 import { defineConfig } from 'unocss'
 import { presetStarlightIcons } from 'starlight-plugin-icons/uno'
 
@@ -21,6 +14,8 @@ export default defineConfig({
     'i-game-icons:biohazard',
     'i-game-icons:bird-claw',
     'i-game-icons:slingshot',
+    'i-game-icons:person',
+    'i-game-icons:gold-mine',
 
     // weather icons
     'i-wi:moon-waning-crescent-3',
