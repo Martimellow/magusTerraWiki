@@ -1,7 +1,7 @@
 ---
 title: Dull Moon
 ---
-
+test
 The Dull Moon is the lesser visible of the two moons that orbit Magusterra, giving off a faint orange glow. Some organizations like the Lunar Monks and species like the [Vehkran](/magusTerraWiki/races/vehkran/) draw on the Dull Moons energy. It is believed that the Dull Moon gives off a peaceful energy. 
  
 ## A Deeper Understanding
