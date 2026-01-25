@@ -17,6 +17,10 @@ export default defineConfig({
 			extractSafelist: true,
 			starlight: {
 				title: 'MagusTerra',
+				customCss:
+				[
+					'./src/styles/custom.css'
+				],
 				sidebar: [
 					{
 						label: 'Zones',
