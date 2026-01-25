@@ -1,0 +1,20 @@
+
+/* Mobile First: Image spans 100% of viewport width */
+.header-image {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: none;
+}
+
+/* Computers: Override to 80% of viewport width */
+@media (min-width: 1024px) {
+  .header-image {
+    width: 70vw;
+    margin-left: -35vw; /* Must be half of the width to stay centered */
+    margin-right: -35vw;
+  }
+}

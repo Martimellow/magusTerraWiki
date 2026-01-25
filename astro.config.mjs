@@ -25,6 +25,8 @@ export default defineConfig({
 						'@fontsource/bad-script',
 						'@fontsource/playpen-sans',
 						'./src/styles/custom.css',
+						'./src/styles/customHeaderImage.css',
+						'./src/styles/theme.css',
 					],
 				sidebar: [
 					{
