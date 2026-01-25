@@ -18,9 +18,9 @@ export default defineConfig({
 			starlight: {
 				title: 'MagusTerra',
 				customCss:
-				[
-					'./src/styles/custom.css'
-				],
+					[
+						'./src/styles/custom.css'
+					],
 				sidebar: [
 					{
 						label: 'Zones',
@@ -35,6 +35,15 @@ export default defineConfig({
 							{
 								label: 'The Southlands',
 								items: [
+									{
+										label: 'The Banshee Badlands',
+										items:
+											[
+												{ icon: 'i-game-icons:ghost', label: 'The Banshee Badlands', slug: 'zones/southlands/bansheebadlands/thebansheebadlands' },
+												{ icon: 'i-game-icons:person', label: 'Taegar the Animator', slug: 'zones/southlands/bansheebadlands/taegartheanimator' },
+												{ icon: 'i-game-icons:pirate-flag', label: 'The Forsaken Wharf', slug: 'zones/southlands/bansheebadlands/theforsakenwharf' }
+											]
+									},
 									{ icon: 'i-game-icons:castle', label: 'Maeloch', slug: 'zones/southlands/maeloch' },
 									{ icon: 'i-game-icons:village', label: 'Beckforge', slug: 'zones/southlands/beckforge' },
 									{ icon: 'i-game-icons:person', label: 'James Meadowford', slug: 'zones/southlands/jamesmeadowford' }
