@@ -1,23 +1,47 @@
 :root {
-  --sl-content-width: 65rem;
-  --sl-text-5xl: 3.5rem;
+	--sl-content-width: 65rem;
+	--sl-text-5xl: 3.5rem;
 }
 
 
 /* Light mode colors. */
 :root[data-theme='light'] {
 	--sl-color-accent-low: #ffc8be;
-    --sl-color-accent: hsl(40.2deg 74.93% 20.24%);
+	--sl-color-accent: hsl(40.2deg 74.93% 20.24%);
 	--sl-color-accent-high: #640300;
 	--sl-color-white: #1d1715;
 	--sl-color-gray-1: hsl(25, 91%, 8%);
 	--sl-color-gray-2: hsl(25, 84%, 12%);
-    --sl-color-gray-3: hsl(24.86deg 71.46% 14.81%);
+	--sl-color-gray-3: hsl(24.86deg 71.46% 14.81%);
 	--sl-color-gray-4: hsl(24, 55%, 23%);
 	--sl-color-gray-5: hsl(23, 48%, 13%);
 	--sl-color-gray-6: hsl(24, 28%, 61%);
 	--sl-color-gray-7: hsl(23, 39%, 87%);
-    --sl-color-black: hsl(37.01deg 19.16% 66.52%);
-    --sl-color-text-accent: hsl(40.2deg 74.93% 20.24%);
-    --sl-color-bg-nav: hsl(36.59deg 32.65% 43.9%);
+	--sl-color-black: hsl(37.01deg 19.16% 66.52%);
+	--sl-color-text-accent: var(--light-mode-accent);
+	--sl-color-bg-nav: hsl(40.2deg 25.36% 51.43%);
+	--sl-color-bg-sidebar: var(--sl-color-bg-nav);
+}
+
+/* Font for headers */
+h1,
+h2 {
+	font-family: 'Bad Script', serif;
+	font-weight: 800;
+}
+
+/* Light mode header color */
+[data-theme='light'] h1 {
+	color: var(--light-mode-accent);
+}
+
+/* Main Body Test Font*/
+:root {
+	--sl-font: 'Playpen Sans', sans-serif;
+}
+
+
+/* Light mode accent color */
+:root {
+	--light-mode-accent: #6b0c09;
 }

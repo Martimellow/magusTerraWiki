@@ -1,6 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-import UnoCSS from 'unocss/astro'
+import UnoCSS from 'unocss/astro';
+import '@fontsource/bad-script';
+import '@fontsource-variable/playpen-sans';
 
 // import starlight from '@astrojs/starlight';
 import Icons from 'starlight-plugin-icons';
@@ -19,7 +21,9 @@ export default defineConfig({
 				title: 'MagusTerra',
 				customCss:
 					[
-						'./src/styles/custom.css'
+						'@fontsource/bad-script',
+						'@fontsource/playpen-sans',
+						'./src/styles/custom.css',
 					],
 				sidebar: [
 					{
