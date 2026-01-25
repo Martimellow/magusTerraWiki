@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import UnoCSS from 'unocss/astro';
 import '@fontsource/bad-script';
-import '@fontsource-variable/playpen-sans';
+import '@fontsource/playpen-sans';
 
 // import starlight from '@astrojs/starlight';
 import Icons from 'starlight-plugin-icons';
@@ -26,6 +26,12 @@ export default defineConfig({
 						'./src/styles/custom.css',
 					],
 				sidebar: [
+					{
+						label: 'Video Games',
+						items:[
+							{ icon: 'i-game-icons:console-controller', label: 'Discovering Olivia Northrop', slug: 'videogames/escape' },
+						],
+					},
 					{
 						label: 'Zones',
 						items: [

@@ -7,18 +7,19 @@ export default defineConfig({
   ],
 
   safelist: [
-    "i-game-icons:biohazard",
-    "i-game-icons:bird-claw",
-    "i-game-icons:castle",
-    "i-game-icons:ghost",
-    "i-game-icons:herbs-bundle",
-    "i-game-icons:night-sky",
-    "i-game-icons:person",
-    "i-game-icons:pirate-flag",
-    "i-game-icons:slingshot",
-    "i-game-icons:village",
-    "i-game-icons:wolf-howl",
-    "i-wi:moon-waning-crescent-3",
-    "i-wi:moon-waxing-crescent-4"
+"i-game-icons:biohazard",
+  "i-game-icons:bird-claw",
+  "i-game-icons:castle",
+  "i-game-icons:console-controller",
+  "i-game-icons:ghost",
+  "i-game-icons:herbs-bundle",
+  "i-game-icons:night-sky",
+  "i-game-icons:person",
+  "i-game-icons:pirate-flag",
+  "i-game-icons:slingshot",
+  "i-game-icons:village",
+  "i-game-icons:wolf-howl",
+  "i-wi:moon-waning-crescent-3",
+  "i-wi:moon-waxing-crescent-4"
   ],
 })
