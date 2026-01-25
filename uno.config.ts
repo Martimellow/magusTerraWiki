@@ -7,10 +7,13 @@ export default defineConfig({
   ],
 
   safelist: [
-"i-game-icons:biohazard",
+  "i-game-icons:biohazard",
   "i-game-icons:bird-claw",
   "i-game-icons:castle",
+  "i-game-icons:cave-entrance",
   "i-game-icons:console-controller",
+  "i-game-icons:cut-diamond",
+  "i-game-icons:dark-squad",
   "i-game-icons:ghost",
   "i-game-icons:herbs-bundle",
   "i-game-icons:night-sky",
