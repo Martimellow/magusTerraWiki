@@ -1,8 +1,6 @@
 ---
 title: Vehkran
 ---
-
-# Vehkran
 The Vehkran are the half man half wolf species of MagusTerra.
  
 There are two primary types of Vehkran, the Civilized and the Feral. Vehkran naturally accumulates a substance in their body known as [Sangvehk](/magusTerraWiki/races/sangvehk/), there is an individual specific threshold for all Vehkran that determines how much sangvehk it takes for them to turn feral. Once they are turned feral they can regain consciousness by lowering their sangvehk levels but it is very difficult to accomplish this because a feral Vehkra doesn't try to reduce their sangvehk levels, so the burden is placed upon others to subdue and lower the feral's levels.

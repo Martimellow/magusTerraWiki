@@ -33,7 +33,7 @@ Along with their normal clothes they often wear tightly strapped backpacks that 
 ### Common Customs, Traditions and Rituals
 The Efos have a long-standing tradition of tribal dances where they all gather together some chanting while others dance. The dancers typically form a circle around a fire or some centerpiece and hop, spin, and burst into the air floating down on their wings circling 'round as they go. Surrounding them are the chanters and singers, the chanters keep the tempo with deep encompassing chants and the singers tell a tacit story with their melody. When the Efos sing they modulate their voices with various coos and whistles such that they sound like a choir of woodwind instruments.
 
-### Interspecies Relations and Assumptions
+### Inter-species Relations and Assumptions
 The Efos typically get along fairly well with other species, though they are protective of their cities and rarely let outsiders in. However, there are a few outsiders who have shown their respect to the Efos people and displayed they understand the Efos way of life and have been granted access to the Efos cities. On these rare occasions, the outsiders are given enchanted gliders made by the Efos people. The gliders allow them to sore high into the air to get into the Efos cities, and at that point, the outsider is trained by the Efos people on how to spot the updrafts and use them to navigate the city effectively.
  
 ### Merfolk

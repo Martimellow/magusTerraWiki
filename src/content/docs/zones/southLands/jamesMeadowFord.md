@@ -1,13 +1,15 @@
 ---
 title: James Meadowford
 ---
+James Meadowford is the much admired former ruler of Maeloch has decided to forgo court life for the simpler life of a woodsman. 
+
 # Physical Description
 
 ## General Physical Condition
 James stands over many men at 6'2" and his callous hands engulf others' in his commanding handshake. He enjoys a few pints of mead a night which has led him to have a bit of a belly but somehow it only adds to his power and commanding presence.
 
 ## Apparel & Accessories
-James likes to wear a simple shirt and overalls with some sturdy workboots when out working in the forest 'round the cabin.
+James likes to wear a simple shirt and overalls with some sturdy workbooks when out working in the forest 'round the cabin.
 
 # Mental characteristics
 ## Personal history

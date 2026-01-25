@@ -32,7 +32,7 @@ export default defineConfig({
 								label: 'The Southlands',
 								items: [
 									{ icon: 'i-game-icons:castle', label: 'Maeloch', slug: 'zones/southlands/maeloch' },
-									{ icon: 'i-game-icons:gold-mine', label: 'Beckforge', slug: 'zones/southlands/beckforge' },
+									{ icon: 'i-game-icons:village', label: 'Beckforge', slug: 'zones/southlands/beckforge' },
 									{ icon: 'i-game-icons:person', label: 'James Meadowford', slug: 'zones/southlands/jamesmeadowford' }
 								]
 							}
