@@ -2,7 +2,7 @@
 title: Taegar The Animator
 ---
 ## (a.k.a. Thomas Dunn)
-Taegar the Animator is a necromancer with a tragic back story holed up in [The Banshee Badlands](/magusTerraWiki/zones/southlands/bansheebadlands/thebansheebadlands/).
+Taegar the Animator is an honest man turned necromancer holed up in [The Banshee Badlands](/magusTerraWiki/zones/southlands/bansheebadlands/thebansheebadlands/).
 
 # Mental characteristics
 ## Personal history
