@@ -19,6 +19,7 @@ export default defineConfig({
 			extractSafelist: true,
 			starlight: {
 				title: 'MagusTerra',
+				plugins: [],
 				customCss:
 					[
 						'@fontsource/bad-script',
@@ -45,6 +46,15 @@ export default defineConfig({
 							{
 								label: 'The Southlands',
 								items: [
+									{
+										label: 'Caverns of Den Gru\'le',
+										items:
+											[
+												{ icon: 'i-game-icons:dark-squad', label: 'Hand of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/handofdengrule' },
+												{ icon: 'i-game-icons:cave-entrance', label: 'Caverns of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/cavernsofdengrule' },
+												{ icon: 'i-game-icons:cut-diamond', label: 'Assari Stone', slug: 'zones/southlands/cavernsofdengrule/assaristone' },
+											]
+									},
 									{
 										label: 'The Banshee Badlands',
 										items:
