@@ -6,6 +6,7 @@ import '@fontsource/playpen-sans';
 
 // import starlight from '@astrojs/starlight';
 import Icons from 'starlight-plugin-icons';
+// import { reference } from 'astro:content';
 
 // https://astro.build/config
 export default defineConfig({
@@ -31,7 +32,7 @@ export default defineConfig({
 				sidebar: [
 					{
 						label: 'Video Games',
-						items:[
+						items: [
 							{ icon: 'i-game-icons:console-controller', label: 'Discovering Olivia Northrop', slug: 'videogames/escape' },
 						],
 					},
@@ -94,6 +95,10 @@ export default defineConfig({
 							{ icon: 'i-wi:moon-waxing-crescent-4', label: 'Vibrant Moon', slug: 'cosmos/vibrantmoon' },
 						]
 					},
+					{
+						label: 'Test',
+						autogenerate: { directory: 'reference' }
+					}
 				],
 			},
 		}),
