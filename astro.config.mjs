@@ -47,6 +47,14 @@ export default defineConfig({
 								],
 							},
 							{
+								label: 'Volariso',
+								items: [
+									{ icon: 'i-game-icons:mine-explosion', label: 'Dereliction of Terrkanei', slug: 'zones/volariso/dereliction' },
+									{ icon: 'i-game-icons:floating-platforms', label: 'Floating Islands of Volariso', slug: 'zones/volariso/floatingisland' },
+									{ icon: 'i-game-icons:meteor-impact', label: 'Crater of Volariso', slug: 'zones/volariso/crater' }
+								],
+							},
+							{
 								label: 'The Southlands',
 								items: [
 									{
@@ -86,6 +94,12 @@ export default defineConfig({
 							},
 							{ icon: 'i-game-icons:bird-claw', label: 'Efos', slug: 'races/efos' },
 							{ icon: 'i-game-icons:slingshot', label: 'Halflings', slug: 'races/halflings' },
+						]
+					},
+					{
+						label: 'World Trees',
+						items: [
+							{ icon: 'i-game-icons:mountaintop', label: 'Terrkanei', slug: 'worldtrees/terrkanei' },
 						]
 					},
 					{
