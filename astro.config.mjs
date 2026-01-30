@@ -21,6 +21,10 @@ export default defineConfig({
 			starlight: {
 				title: 'MagusTerra',
 				plugins: [],
+				components: {
+					PageTitle: './src/components/iconTitle.astro'
+
+				},
 				customCss:
 					[
 						'@fontsource/bad-script',
@@ -114,10 +118,10 @@ export default defineConfig({
 							{ icon: 'i-wi:moon-waxing-crescent-4', label: 'Vibrant Moon', slug: 'cosmos/vibrantmoon' },
 						]
 					},
-					// {
-					// 	label: 'Test',
-					// 	autogenerate: { directory: 'reference' }
-					// }
+					{
+						label: 'Test',
+						autogenerate: { directory: 'reference' }
+					}
 				],
 			},
 		}),
