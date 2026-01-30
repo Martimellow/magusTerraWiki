@@ -99,7 +99,12 @@ export default defineConfig({
 					{
 						label: 'World Trees',
 						items: [
+							{ icon: 'i-game-icons:triple-shells', label: 'World Trees', slug: 'worldtrees/worldtrees' },
+							{ icon: 'i-game-icons:pine-tree', label: 'Terrginnan', slug: 'worldtrees/terrginnan' },
 							{ icon: 'i-game-icons:mountaintop', label: 'Terrkanei', slug: 'worldtrees/terrkanei' },
+							{ icon: 'i-game-icons:palm-tree', label: 'Terrliiff', slug: 'worldtrees/terrliiff' },
+							{ icon: 'i-game-icons:willow-tree', label: 'Terrsang', slug: 'worldtrees/terrsang' },
+							{ icon: 'i-game-icons:mushroom-gills', label: 'Terrcadere', slug: 'worldtrees/terrcadere' },
 						]
 					},
 					{
