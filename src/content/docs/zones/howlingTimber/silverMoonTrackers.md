@@ -2,7 +2,6 @@
 title: The Silvermoon Trackers
 icon:  weather/nightSky
 ---
-
 The Silvermoon Trackers is a multi-species organization found in Howling Timber who's main goal is to eradicate the plight of feral [Vehkran](/magusTerraWiki/races/vehkran) by researching [Sangvehk](/magusTerraWiki/races/sangvehk), propagating [Vehkmoss](/magusTerraWiki/zones/howlingtimber/vehkmoss), cultivating remedies, hunting down Vehkran and curing them. 
 
 ## Technological Level

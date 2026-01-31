@@ -1,12 +1,13 @@
 /* General Text and Column size */
 :root {
-	--sl-content-width: 65rem;
+	--sl-content-width: 75rem;
 	--sl-text-5xl: 3.5rem;
 }
 
 /* Font for headers */
 h1,
-h2 {
+h2,
+h3 {
 	font-family: 'Bad Script', serif;
 	font-weight: 800;
 }
