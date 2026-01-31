@@ -1,20 +1,26 @@
 ---
-const { title } = Astro.locals.starlightRoute.entry.data;
-// const { sidebar } = Astro.locals.starlightRoute.sidebar;
 const isHomepage = Astro.locals.starlightRoute.id ==='';
+
+import { Icon } from '@astrojs/starlight/components';
+const { icon } = Astro.locals.starlightRoute.entry.data;
+
+const { entry } = Astro.locals.starlightRoute;
+const { title } = entry.data;
+const iconName = entry.data.icon;
 ---
 
 {
     isHomepage ? 
     (<h1 id={title} >{Astro.locals.starlightRoute.entry.data.title}</h1>) : 
     (
-        
-    <h1 id={title}>
+
+<h1 id={title}>
         <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><!-- Icon from Game Icons by GameIcons - https://github.com/game-icons/icons/blob/master/license.txt --><path fill="currentColor" d="M184 43.5v18h144l-.1-18zm24 95.9l-144 .1v18l144-.1zm96.1 0v18l143.9.1v-18.1zm168.4 98.1l-435.63.1L128 372.5l10.9-32l21.1 80l32-52.5l48 128l80-107.5l32 16z"/></svg> 
         {Astro.locals.starlightRoute.entry.data.title}
         </h1>
     )
 }
+{iconName && <Icon name={iconName}/>}
 
 <style>
 	@layer starlight.core {
