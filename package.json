@@ -15,6 +15,7 @@
     "@fontsource/bad-script": "^5.2.8",
     "@fontsource/playpen-sans": "^5.2.8",
     "astro": "^5.6.1",
+    "astro-icon": "^1.1.5",
     "sharp": "^0.34.2",
     "starlight-plugin-icons": "^1.1.3"
   },

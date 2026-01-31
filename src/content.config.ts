@@ -8,7 +8,9 @@ export const collections = {
 		schema: docsSchema(
 			{
 				extend: z.object({
-					icon: z.string().optional() as z.ZodType<import('@astrojs/starlight/types').StarlightIcon | undefined>,
+					// icon: z.string().optional() as z.ZodType<import('@astrojs/starlight/types').StarlightIcon | undefined>,
+					icon: z.string().optional() ,
+					
 				})
 			}
 		)

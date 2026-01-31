@@ -5,7 +5,9 @@ import '@fontsource/bad-script';
 import '@fontsource/playpen-sans';
 
 // import starlight from '@astrojs/starlight';
-import Icons from 'starlight-plugin-icons';
+import StarlighIcons from 'starlight-plugin-icons';
+import icon from "astro-icon";
+
 // import { reference } from 'astro:content';
 
 // https://astro.build/config
@@ -13,8 +15,9 @@ export default defineConfig({
 	site: 'https://martimellow.github.io',
 	base: '/magusTerraWiki/',
 	integrations: [
+		icon(),
 		UnoCSS(),
-		Icons({
+		StarlighIcons({
 			// social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: true,
 			extractSafelist: true,
