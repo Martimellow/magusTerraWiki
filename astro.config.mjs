@@ -122,7 +122,7 @@ export default defineConfig({
 						]
 					},
 					// {
-					// 	label: 'Test',
+					// 	label: 'Test Pages',
 					// 	autogenerate: { directory: 'reference' }
 					// }
 				],

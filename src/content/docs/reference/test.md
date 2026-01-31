@@ -3,7 +3,9 @@ title: Test Title
 description: Test Description
 layout: ../../../pages/mainContentLayout.astro
 icon:  terrain/floatingIsland
+slug: what
 sidebar:
+    label: My Label
     icon: i-wi:moon-waning-crescent-3
 ---
 
