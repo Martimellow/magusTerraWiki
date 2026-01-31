@@ -1,5 +1,6 @@
 ---
 title: The Dereliction of Terrkanei
+icon: effect/explosion
 ---
 The fateful day that rendered Terrkanei the lone mountain peak of Volariso. 
 

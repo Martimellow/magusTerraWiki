@@ -1,5 +1,6 @@
 ---
 title: James Meadowford
+icon: people/person
 ---
 James Meadowford is the much admired former ruler of [Maeloch](/magusTerraWiki/zones/southlands/maeloch/) has decided to forgo court life for the simpler life of a woodsman. 
 

@@ -1,5 +1,6 @@
 ---
 title: Terrkanei
+icon: terrain/mountain
 ---
 Terrkanei is one of the 5 **World Trees** in Magusterra. It is the only world tree that is not actually a tree, but is still considered a world tree due to it's significance in the world. 
 

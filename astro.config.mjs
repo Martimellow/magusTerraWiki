@@ -121,10 +121,10 @@ export default defineConfig({
 							{ icon: 'i-wi:moon-waxing-crescent-4', label: 'Vibrant Moon', slug: 'cosmos/vibrantmoon' },
 						]
 					},
-					{
-						label: 'Test',
-						autogenerate: { directory: 'reference' }
-					}
+					// {
+					// 	label: 'Test',
+					// 	autogenerate: { directory: 'reference' }
+					// }
 				],
 			},
 		}),

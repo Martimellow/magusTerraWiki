@@ -1,5 +1,6 @@
 ---
 title: Floating Islands of Volariso
+icon: terrain/floatingIsland
 ---
 The floating islands of Volariso are large mountains turned upside down, imbued with ley energy floating above the [Crater of Volariso](/magusTerraWiki/zones/volariso/crater/). They were not a natural formation in Magusterra but rather came to be after a devastating magical explosion that blew the land masses into the sky. 
 

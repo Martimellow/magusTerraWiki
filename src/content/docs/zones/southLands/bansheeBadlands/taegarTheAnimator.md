@@ -1,5 +1,6 @@
 ---
 title: Taegar The Animator
+icon: people/person
 ---
 ## (a.k.a. Thomas Dunn)
 Taegar the Animator is an honest man turned necromancer holed up in [The Banshee Badlands](/magusTerraWiki/zones/southlands/bansheebadlands/thebansheebadlands/).
