@@ -1,20 +1,23 @@
 ---
-const isHomepage = Astro.locals.starlightRoute.id ==='';
-
-// import { Icon } from '@astrojs/starlight/components';
+// Ths allows for reading of Icon names directly from src/icons
 import {Icon} from 'astro-icon/components';
-const { icon } = Astro.locals.starlightRoute.entry.data;
 
+// Simplify route
 const { entry } = Astro.locals.starlightRoute;
+
+// Get the title from each pages frontmatter
 const { title } = entry.data;
+
+// Get the icon name form each pages frontmatter
 const iconName = entry.data.icon;
 ---
 
 {
-        <h1 id={title}>
-                {iconName && <Icon name = {iconName}/>}
-                {Astro.locals.starlightRoute.entry.data.title}
-        </h1>
+    // Create a title header that consists of the icon (if availble) and title from the frontmatter. 
+    <h1 id={title}> 
+        {iconName && <Icon name = {iconName}/>} 
+        {entry.data.title}
+    </h1>
 }
 
 <style>

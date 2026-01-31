@@ -5,7 +5,7 @@ import '@fontsource/bad-script';
 import '@fontsource/playpen-sans';
 
 // import starlight from '@astrojs/starlight';
-import StarlighIcons from 'starlight-plugin-icons';
+import StarlightIcons from 'starlight-plugin-icons';
 import icon from "astro-icon";
 
 // import { reference } from 'astro:content';
@@ -17,7 +17,7 @@ export default defineConfig({
 	integrations: [
 		icon(),
 		UnoCSS(),
-		StarlighIcons({
+		StarlightIcons({
 			// social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: true,
 			extractSafelist: true,
