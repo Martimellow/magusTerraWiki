@@ -1,7 +1,7 @@
 ---
 title: The Forsaken Wharf
 icon: faction/pirates
-bannerImage: /public/maps/southlands.png
+bannerImage: /maps/southlands.png
 ---
 ## Purpose / Function
 These days The Forsaken Wharf is used as a hideout of the Pirates of **Smuggler's Cove** and a resupply point for [Taegar the Animator](/magusTerraWiki/zones/southlands/bansheebadlands/taegartheanimator/).

@@ -1,7 +1,7 @@
 ---
 title: Octavius
 icon: people/person
-bannerImage: /public/maps/southlands.png
+bannerImage: /maps/southlands.png
 ---
 ### Master of Torture Octavius Westcott (a.k.a. The Torment)
 
