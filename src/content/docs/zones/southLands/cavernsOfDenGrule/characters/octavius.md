@@ -2,9 +2,8 @@
 title: Octavius
 icon: people/person
 bannerImage: /maps/southlands.png
+subHeading: Master of Torture Octavius WestCott (a.k.a. The Torment)
 ---
-### Master of Torture Octavius Westcott (a.k.a. The Torment)
-
 # Physical Description
 ## General Physical Condition
 Octavius has always been a short man standing at only 5'4", which always presented a challenge when trying to gain the respect of other recruits and even similarly ranked officers. However this didn't stop him, just gave him more fire and drive to pursue excellence. He was very physically fit when he was active in Royal Army, but since he joined the [Hand of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/handofdengrule/) the wretched magic has started to wither his body as it does for all warlocks. He is still decently fit unlike the other warlocks who are wasting away but while he practices the dark magic he is unable to get back to the level of health and fitness he was at in the army.

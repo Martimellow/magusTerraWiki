@@ -2,9 +2,9 @@
 title: Olivia
 icon: people/person
 bannerImage: /maps/southlands.png
----
-### Rumorer Olivia Unknown
+subHeading: Rumorer Olivia
 
+---
 # Physical Description
 ## Physical quirks
 Her eyes have a faint green glow, that most think is just vibrance but in reality, it is the corruption from her excessive use of torhment peaking out beyond the magical disguise she uses.

@@ -1,9 +1,8 @@
 ---
 title: Maive
 bannerImage: /maps/snowRegion.png
+subHeading: Master Lunar Monk Maive
 ---
-### Master Lunar Monk Maive
-
 # Physical Description
 ## General Physical Condition
 Maive is in superb physical condition as a result of the many years of training at the [Lunar Monks](/magusTerraWiki/zones/seacliff/seaclifforganizations/lunarmonks/)  Academy. She can even enhance her physical beyond the normal human by channeling lunar energy into her body as a type of reservoir, giving her increased stamina and agility when she needs to call upon it.

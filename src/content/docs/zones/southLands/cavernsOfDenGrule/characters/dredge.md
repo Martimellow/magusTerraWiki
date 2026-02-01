@@ -2,8 +2,8 @@
 title: Dredge
 icon: people/person
 bannerImage: /maps/southlands.png
+subHeading: Lead Recruiter Dredge
 ---
-### Lead Recruiter Dredge
 # Personality Characteristics
 ## Motivation
 He like most other warlocks is seeking control over others. He isn't skilled enough to do that with experience warlocks so he constantly hunts for new recruits.

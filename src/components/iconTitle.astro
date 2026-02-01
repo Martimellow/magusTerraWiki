@@ -10,20 +10,30 @@ const { title } = entry.data;
 
 // Get the icon name form each pages frontmatter
 const iconName = entry.data.icon;
+
+const linkDescription = entry.data.inspirationDescription ? entry.data.inspirationDescription : "Inspiration for " + entry.data.title;
 ---
 
 {
-    // Create a title header that consists of the icon (if available) and title from the frontmatter. 
-    <h1 id={title}> 
-        {iconName && <Icon name = {iconName}/>} 
-        {entry.data.title}
-    </h1>
+	// Conditionally Show a icon and or a pronunciation guide along with the title. 
+	<div class="container">
+		<h1 id={title}> {iconName && <Icon name = {iconName}/>} {entry.data.title}</h1>
+		{entry.data.pronunciation && (<p class="text-pronunciation"> ({entry.data.pronunciation})</p>)}
+    </div>
 }
-
+{
+	// Optional Subheading (often used for AKAs)
+	entry.data.subHeading && <h2 class="subheader"> {entry.data.subHeading}</h2>
+}
+{
+	// Optional Inspirational Link
+	 entry.data.inspirationLink && <a  href={entry.data.inspirationLink} class="styled-link">  {linkDescription}</a>
+}
 <style>
 	@layer starlight.core {
 		h1 {
 			margin-top: 1rem;
+			margin-bottom: .5rem;
 			font-size: var(--sl-text-h1);
 			line-height: var(--sl-line-height-headings);
 			font-weight: 800;
@@ -32,5 +42,28 @@ const iconName = entry.data.icon;
             gap: 10px;
             display: flex;
 		}
+
+		.subheader{
+			margin: .2rem;
+		}
+
+		.container {
+            display: flex; /* Enables flexbox layout for children */
+            align-items: baseline;
+            gap: 20px; /* Adds space between the header and the paragraph */
+        }
+
+		 .text-pronunciation {
+            /* Optional: styles for the text specific to this layout */
+            margin: 0; /* Resets default margin for better alignment */
+			font-size: var(--sl-text-h3);
+            color: rgb(102, 100, 100);
+        }
+
+		.styled-link
+		{
+			color: var(--sl-color-white);
+		}
 	}
+
 </style>
