@@ -1,6 +1,7 @@
 ---
 title: Maeloch
 icon: building/castle
+bannerImage: /public/maps/southlands.png
 ---
 Maeloch is the capital city of The Southlands surrounded by the snow topped mountains of the Crescent Range, the city is falling on hard times since it's former leader has left to live a quiet life. 
 

@@ -1,6 +1,7 @@
 ---
 title: Vehkran
 icon: creature/wolfHowl
+bannerImage: /public/maps/howlingTimber.png
 ---
 The Vehkran are the half man half wolf species of MagusTerra.
  

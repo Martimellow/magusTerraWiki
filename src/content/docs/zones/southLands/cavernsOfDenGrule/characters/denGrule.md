@@ -1,6 +1,7 @@
 ---
 title: Den Gru'le
 icon: people/person
+bannerImage: /public/maps/southlands.png
 ---
 ### Arch Warlock Den Gru'le
 

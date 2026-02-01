@@ -1,6 +1,7 @@
 ---
 title: Olivia
 icon: people/person
+bannerImage: /public/maps/southlands.png
 ---
 ### Rumorer Olivia Unknown
 

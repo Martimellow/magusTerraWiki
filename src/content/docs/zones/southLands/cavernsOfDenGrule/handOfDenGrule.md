@@ -1,6 +1,7 @@
 ---
 title: Hand of Den Gru'le
 icon: people/group
+bannerImage: /public/maps/southlands.png
 ---
 The Hand of Den Gru'le is a warlock cult hidden in a mountain range in The Southlands. 
 

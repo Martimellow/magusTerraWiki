@@ -1,6 +1,7 @@
 ---
 title: Beckforge
 icon: building/village
+bannerImage: /public/maps/southlands.png
 ---
 Beckforge Resides within the rolling hills known as the Echoing Hills, in fact, the settlement is the reason the hills have their name. The smithing and mining that goes on atop the large hill and within the other smaller settlements within the hills can be heard ringing and echoing throughout the hills constantly, giving them their iconic name.
 

@@ -1,6 +1,7 @@
 ---
 title: Dredge
 icon: people/person
+bannerImage: /public/maps/southlands.png
 ---
 ### Lead Recruiter Dredge
 # Personality Characteristics

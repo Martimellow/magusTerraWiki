@@ -25,8 +25,8 @@ export default defineConfig({
 				title: 'MagusTerra',
 				plugins: [],
 				components: {
-					PageTitle: './src/components/iconTitle.astro'
-
+					PageTitle: './src/components/iconTitle.astro',
+					Banner: './src/components/imageBanner.astro'
 				},
 				customCss:
 					[
