@@ -2,9 +2,11 @@
 // Don't show banner on home page. 
 const isHomepage = Astro.locals.starlightRoute.id === "";
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
 // If there is a banner image in the page front matter then use it, otherwise have the magusterra image be the banner. 
 const { bannerImage } = Astro.locals.starlightRoute.entry.data;
-const filePath = bannerImage ? bannerImage : "/public/maps/magusterra.png";
+const filePath = bannerImage ? bannerImage : `${base}/maps/magusterra.png`;
 ---
 
 {
