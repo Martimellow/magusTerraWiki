@@ -13,7 +13,9 @@ const filePath = bannerImage ? base+ bannerImage : `${base}/maps/magusterra.png`
 {
 	!isHomepage &&
 	<div class="sl-banner" >
-	    <img src = {filePath} class="custom-banner"/>
+		<a href={filePath}>
+		    <img src = {filePath} class="custom-banner"/>
+		</a>
 	</div>
 }
 
