@@ -39,15 +39,17 @@ export default defineConfig({
 				sidebar: [
 					{
 						label: 'Video Games',
+						collapsed: true,
 						items: [
 							{ icon: 'i-game-icons:console-controller', label: 'Discovering Olivia Northrop', slug: 'videogames/escape' },
 						],
 					},
 					{
-						label: 'Zones',
+						label: 'Regions',
 						items: [
 							{
 								label: 'Howling Timber',
+								collapsed: true,
 								items: [
 									{ icon: 'i-game-icons:night-sky', label: 'Silver Moon Trackers', slug: 'zones/howlingtimber/silvermoontrackers' },
 									{ icon: 'i-game-icons:herbs-bundle', label: 'Vehkmosss', slug: 'zones/howlingtimber/vehkmoss' }
@@ -55,6 +57,7 @@ export default defineConfig({
 							},
 							{
 								label: 'Volariso',
+								collapsed: true,
 								items: [
 									{ icon: 'i-game-icons:mine-explosion', label: 'Dereliction of Terrkanei', slug: 'zones/volariso/dereliction' },
 									{ icon: 'i-game-icons:floating-platforms', label: 'Floating Islands of Volariso', slug: 'zones/volariso/floatingisland' },
@@ -63,29 +66,37 @@ export default defineConfig({
 							},
 							{
 								label: 'The Southlands',
+								collapsed: true,
 								items: [
+									{ icon: 'i-game-icons:castle', label: 'Maeloch', slug: 'zones/southlands/maeloch' },
+									{ icon: 'i-game-icons:village', label: 'Beckforge', slug: 'zones/southlands/beckforge' },
+									{ icon: 'i-game-icons:person', label: 'James Meadowford', slug: 'zones/southlands/jamesmeadowford' },
 									{
 										label: 'Caverns of Den Gru\'le',
+													collapsed: true,
 										items:
 											[
-												{
-													label: 'Prominent Figures',
-													items:
-													[
-														{ icon: 'i-game-icons:person', label: 'Olivia', slug: 'zones/southlands/cavernsofdengrule/characters/olivia' },
-														{ icon: 'i-game-icons:person', label: 'Octavius', slug: 'zones/southlands/cavernsofdengrule/characters/octavius' },
-														{ icon: 'i-game-icons:person', label: 'Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/characters/dengrule' },
-														{ icon: 'i-game-icons:person', label: 'Dredge', slug: 'zones/southlands/cavernsofdengrule/characters/dredge' },
-
-													]
-												},
 												{ icon: 'i-game-icons:dark-squad', label: 'Hand of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/handofdengrule' },
 												{ icon: 'i-game-icons:cave-entrance', label: 'Caverns of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/cavernsofdengrule' },
 												{ icon: 'i-game-icons:cut-diamond', label: 'Assari Stone', slug: 'zones/southlands/cavernsofdengrule/assaristone' },
+												{
+													label: 'Prominent Figures',
+													collapsed: true,
+													items:
+														[
+															{ icon: 'i-game-icons:person', label: 'Olivia', slug: 'zones/southlands/cavernsofdengrule/characters/olivia' },
+															{ icon: 'i-game-icons:person', label: 'Octavius', slug: 'zones/southlands/cavernsofdengrule/characters/octavius' },
+															{ icon: 'i-game-icons:person', label: 'Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/characters/dengrule' },
+															{ icon: 'i-game-icons:person', label: 'Dredge', slug: 'zones/southlands/cavernsofdengrule/characters/dredge' },
+
+														]
+												},
+												
 											]
 									},
 									{
 										label: 'The Banshee Badlands',
+													collapsed: true,
 										items:
 											[
 												{ icon: 'i-game-icons:ghost', label: 'The Banshee Badlands', slug: 'zones/southlands/bansheebadlands/thebansheebadlands' },
@@ -93,29 +104,29 @@ export default defineConfig({
 												{ icon: 'i-game-icons:pirate-flag', label: 'The Forsaken Wharf', slug: 'zones/southlands/bansheebadlands/theforsakenwharf' }
 											]
 									},
-									{ icon: 'i-game-icons:castle', label: 'Maeloch', slug: 'zones/southlands/maeloch' },
-									{ icon: 'i-game-icons:village', label: 'Beckforge', slug: 'zones/southlands/beckforge' },
-									{ icon: 'i-game-icons:person', label: 'James Meadowford', slug: 'zones/southlands/jamesmeadowford' }
 								]
 							}
 						]
 					},
 					{
 						label: 'Races',
+						collapsed: true,
 						items: [
+							{ icon: 'i-game-icons:bird-claw', label: 'Efos', slug: 'races/efos' },
+							{ icon: 'i-game-icons:slingshot', label: 'Halflings', slug: 'races/halflings' },
 							{
 								label: 'Vehkran',
+						collapsed: true,
 								items: [
 									{ icon: 'i-game-icons:wolf-howl', label: 'Vehkran', slug: 'races/vehkran' },
 									{ icon: 'i-game-icons:biohazard', label: 'Sangvehk', slug: 'races/sangvehk' }
 								]
 							},
-							{ icon: 'i-game-icons:bird-claw', label: 'Efos', slug: 'races/efos' },
-							{ icon: 'i-game-icons:slingshot', label: 'Halflings', slug: 'races/halflings' },
 						]
 					},
 					{
 						label: 'World Trees',
+						collapsed: true,
 						items: [
 							{ icon: 'i-game-icons:triple-shells', label: 'World Trees', slug: 'worldtrees/worldtrees' },
 							{ icon: 'i-game-icons:pine-tree', label: 'Terrginnan', slug: 'worldtrees/terrginnan' },
@@ -127,6 +138,7 @@ export default defineConfig({
 					},
 					{
 						label: 'Cosmos',
+						collapsed: true,
 						items: [
 							{ icon: 'i-wi:moon-waning-crescent-3', label: 'Dull Moon', slug: 'cosmos/dullmoon' },
 							{ icon: 'i-wi:moon-waxing-crescent-4', label: 'Vibrant Moon', slug: 'cosmos/vibrantmoon' },
