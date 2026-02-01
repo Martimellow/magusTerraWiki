@@ -54,7 +54,7 @@ export default defineConfig({
 									{ icon: 'i-game-icons:night-sky', label: 'Silver Moon Trackers', slug: 'zones/howlingtimber/silvermoontrackers' },
 									{ icon: 'i-game-icons:herbs-bundle', label: 'Vehkmosss', slug: 'zones/howlingtimber/vehkmoss' }
 								],
-							},
+							}, // end of howling timber
 							{
 								label: 'Volariso',
 								collapsed: true,
@@ -63,7 +63,7 @@ export default defineConfig({
 									{ icon: 'i-game-icons:floating-platforms', label: 'Floating Islands of Volariso', slug: 'zones/volariso/floatingisland' },
 									{ icon: 'i-game-icons:meteor-impact', label: 'Crater of Volariso', slug: 'zones/volariso/crater' }
 								],
-							},
+							}, // end of volariso
 							{
 								label: 'The Southlands',
 								collapsed: true,
@@ -73,7 +73,7 @@ export default defineConfig({
 									{ icon: 'i-game-icons:person', label: 'James Meadowford', slug: 'zones/southlands/jamesmeadowford' },
 									{
 										label: 'Caverns of Den Gru\'le',
-													collapsed: true,
+										collapsed: true,
 										items:
 											[
 												{ icon: 'i-game-icons:dark-squad', label: 'Hand of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/handofdengrule' },
@@ -91,12 +91,12 @@ export default defineConfig({
 
 														]
 												},
-												
+
 											]
-									},
+									}, // end of caverns of den gru'le
 									{
 										label: 'The Banshee Badlands',
-													collapsed: true,
+										collapsed: true,
 										items:
 											[
 												{ icon: 'i-game-icons:ghost', label: 'The Banshee Badlands', slug: 'zones/southlands/bansheebadlands/thebansheebadlands' },
@@ -105,7 +105,41 @@ export default defineConfig({
 											]
 									},
 								]
-							}
+							}, // end of Southlands
+							{
+								label: 'Seacliff',
+								collapsed: true,
+								items: [
+									{ icon: 'i-game-icons:night-sky', label: 'Seacliff', slug: 'zones/seacliff/seacliff' },
+									{ icon: 'i-game-icons:herbs-bundle', label: 'Communal Bath House', slug: 'zones/seacliff/communalbathhouse' },
+									{
+										label: 'Organizations',
+										collapsed: true,
+										items:
+											[
+												{ icon: 'i-game-icons:night-sky', label: 'Lunar Monks', slug: 'zones/seacliff/seaclifforganizations/lunarmonks' },
+												{ icon: 'i-game-icons:night-sky', label: 'Council of Elders', slug: 'zones/seacliff/seaclifforganizations/councilofelders' },
+											]
+									},
+									{
+										label: 'Residents',
+										collapsed: true,
+										items:
+											[
+												{ icon: 'i-game-icons:night-sky', label: 'Maive', slug: 'zones/seacliff/residents/maive' },
+												{ icon: 'i-game-icons:night-sky', label: 'Cliftons', slug: 'zones/seacliff/residents/cliftons' },
+											]
+									},
+									{
+										label: 'Wildlife',
+										collapsed: true,
+										items:
+											[
+												{ icon: 'i-game-icons:night-sky', label: 'Ironwood Trees', slug: 'zones/seacliff/wildlife/ironwoodtrees' },
+											]
+									},
+								],
+							}, // end of seacliff
 						]
 					},
 					{
@@ -116,7 +150,7 @@ export default defineConfig({
 							{ icon: 'i-game-icons:slingshot', label: 'Halflings', slug: 'races/halflings' },
 							{
 								label: 'Vehkran',
-						collapsed: true,
+								collapsed: true,
 								items: [
 									{ icon: 'i-game-icons:wolf-howl', label: 'Vehkran', slug: 'races/vehkran' },
 									{ icon: 'i-game-icons:biohazard', label: 'Sangvehk', slug: 'races/sangvehk' }
