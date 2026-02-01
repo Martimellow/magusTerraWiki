@@ -68,6 +68,17 @@ export default defineConfig({
 										label: 'Caverns of Den Gru\'le',
 										items:
 											[
+												{
+													label: 'Prominent Figures',
+													items:
+													[
+														{ icon: 'i-game-icons:person', label: 'Olivia', slug: 'zones/southlands/cavernsofdengrule/characters/olivia' },
+														{ icon: 'i-game-icons:person', label: 'Octavius', slug: 'zones/southlands/cavernsofdengrule/characters/octavius' },
+														{ icon: 'i-game-icons:person', label: 'Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/characters/dengrule' },
+														{ icon: 'i-game-icons:person', label: 'Dredge', slug: 'zones/southlands/cavernsofdengrule/characters/dredge' },
+
+													]
+												},
 												{ icon: 'i-game-icons:dark-squad', label: 'Hand of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/handofdengrule' },
 												{ icon: 'i-game-icons:cave-entrance', label: 'Caverns of Den Gru\'le', slug: 'zones/southlands/cavernsofdengrule/cavernsofdengrule' },
 												{ icon: 'i-game-icons:cut-diamond', label: 'Assari Stone', slug: 'zones/southlands/cavernsofdengrule/assaristone' },

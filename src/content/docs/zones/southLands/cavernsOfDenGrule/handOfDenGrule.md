@@ -9,7 +9,7 @@ There is only a loose organizational structure in this organization because it i
  
 New members are recruited into the organization by the weaker members of the organization so that they have somebody easy for them to control due to their inexperience. However, as those new recruits start to gain experience they will inevitably start vying for control over other members. This keeps more senior members on their toes because if they become complacent they could fall prey to the younger recruits.
  
-This cyclical nature is incredibly toxic of course, however, it does a remarkably good job of advancing the dark magic and manipulation tactics of the warlock clan as a whole. All according to the plan of the **Arch Warlock Den Gru'le** himself.
+This cyclical nature is incredibly toxic of course, however, it does a remarkably good job of advancing the dark magic and manipulation tactics of the warlock clan as a whole. All according to the plan of the [Arch Warlock Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/characters/dengrule/) himself.
 
 # Culture
 ## Internal

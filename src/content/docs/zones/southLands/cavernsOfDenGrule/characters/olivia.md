@@ -1,0 +1,66 @@
+---
+title: Olivia
+icon: people/person
+---
+### Rumorer Olivia Unknown
+
+# Physical Description
+## Physical quirks
+Her eyes have a faint green glow, that most think is just vibrance but in reality, it is the corruption from her excessive use of torhment peaking out beyond the magical disguise she uses.
+Special abilities
+Olivia has developed several unique Warlock Abilities due to her proficiency in the craft and needs to for her role within the clan.
+ 
+1) She has learned how to imbue her arrows with dark magic so they can poison the meat of her prey or cause extreme agony within them no matter where they are hit. Allowing her to harvest the maximum amount of torhment from her hunt.
+ 
+2) She has learned how to channel her Torhment to affect her appearance. Keeping her looking young, healthy, and sexy despite the corruption that is swirling within her. This helps her to control the villagers as she has her sex appeal as a tool.
+
+## Specialized Equipment
+Olivia Uses a Long Bow which is rarely seen amongst warlocks but she fell in love with bows when she first saw one and has practiced with them ever since. She has even developed a form of magic that allows her to imbue her arrows with curses.
+
+# Mental characteristics
+## Personal history
+Olivia was indoctrinated into the [Hand of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/handofdengrule/) when she was an infant. While [Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/characters/dengrule/) was out sowing suffering into a nearby village he killed her parents and kidnapped her as a child to be raised by the warlocks.
+
+## Sexuality
+Olivia is bi-sexual she doesn't really have a preference between men or women. She sees sex as a tool to use against the feeble-minded villagers. Typically using one's Torhment will taint and corrupt the body leaving one sickly and wretched but since it is important for her ability to manipulate people Olivia also channels the dark magic to keep herself attractive. This is a very exhausting process and only one as skilled as she is in the dark arts can keep it up for such long periods of time. Even then some of the corruption finds its way to the surface, she has remarkably pale skin for the average person and her eyes have an extra green glow about them. But this works to her advantage as it is easier to get people drawn into such intriguing eyes.
+
+## Education
+Since Olivia grew up in the [Caverns of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/cavernsofdengrule/) she spent her entire life perfecting the four schools of warlock magic. She started at a young age watching The Torment wring every ounce of Torhment out of his victims. As any good father figure would he ensured she was actively engaged and participating in his studies. She loved being treated like an adult at such a young age and was always thrilled to help out. Spurring her interest in the warlock arts.
+ 
+After she became proficient in torturing victims to milk out every bit of Torhment she could she followed her victims to the Lead Ritualist where they would be sacrificed to the Demon Lords to salvage any remaining Torhment that couldn't be harvested while the victims were still alive. At this point, Olivia was reaching her young teens and it was a drastic shift going from the jovial Torment to the obnoxiously pious Lead Ritualist. Olivia hated going through the rigorous rituals required to harvest the maximum amount of Torhment from the sacrifices. Knocking the victims unconscious, writing the runes on their bodies with their own blood, lighting all 137 candles... so many freaking candles, then waking them up with the **Pineclove**. It was so boring, day after day. She was ecstatic when she completed her final trial and proved herself satisfactory at sacrificing, at least enough so that she could move on to Demonology even though her sacrificing would never be as powerful as her torturing.
+ 
+As a young teen, she moved on to Demonology with Percy The Head Demonologist she was excited to move on to this new discipline. Anything to get away from sacrificing and the Lead Ritualist. She was fascinated by all the different demons that could be summoned and she paid more attention to Percy's teaching of reverence to the demons than most students did. However, there was no question in her reason for learning the craft, she was well aware of the kinds of people who lived within the clan. [Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/characters/dengrule/) and The Torment may have kept her safe for a while but now she needed to make sure she had everything in her power to keep her safe now. She needed to learn how to control those demons to do her bidding. She knew the direct payout that would come from this and she was eager for it.
+ 
+After she learned all that she could from the Head Demonologist she moved on to the last school of warlock magic with Scurge. By this time she was almost a full-grown adult and an extremely capable warlock. Most of the clan joined later in life after they had experienced the world then they had to relearn all they had come to know and develop this skill for the corrupt magic and lifestyle. But Olivia had been practicing since birth. She was prepared to learn the most devastating of all the warlocks' magic, Plague Spreading. This form of magic was one of the most efficient ways to generate torment. As it was easy to unleash a plague on a nearby village and reel in the influx of Tohrment. But it was also the most dangerous as you had to be careful not to make the plague too potent that it spread too quickly and devastate the entire world. Olivia was prepared though. She completed her studies of all 4 warlock schools of magic by the time she was 18 a feat unheard of within the clan. She was a force to be reckoned with and nobody had any interest in crossing her.
+
+## Employment
+Olivia was always an overachiever, she had to be with the company she was in. If she didn't master all four schools of Warlock Magic she would have been a target for all the other warlocks. Once she finished all school she wanted to continue to make herself useful to [Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/characters/dengrule/) and the Clan, but she wanted a change of pace. She wondered what the villagers were like, and she knew that much care had to be taken when interacting with them. They needed to be controlled, there were rumors that the forest was haunted and that entering it spelled out certain doom. Some were of the mind that they should forge into the desert in mass and see to it that whatever monster lurked within be dealt with. Others had no problem steering clear of the dark foreboding forest. These two parties had to be managed properly. If they got too bold they might venture in and expose the true monster, the [Caverns of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/cavernsofdengrule/), If they got too skittish then nobody would venture in making it much harder to acquire subjects to torture and sacrifices to the Demon Lords, both critical methods of harvesting Torhment. As well if somebody interacted directly with the villagers it would be much easier to monitor the spread of plagues and illnesses amongst them to ensure Scurge's concoctions were balanced correctly. That was it, the villagers needed a liaison, and no one was more skilled or clever enough to do it than Olivia. She would live amongst them (on the outskirts of town) and ensure that the villagers were in the palm of the clan's hand... the [Hand of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/handofdengrule/).
+ 
+Olivia used her love for archery to disguise herself as a hunter. Who would live on the outskirts of town and often venture into the forest and sometimes come back with the game for the village? When she would venture out into the forest she would often come back and visit the Caverns of Den Gru'le and meet up with her adopted father [Octavius](/magusTerraWiki/zones/southlands/cavernsofdengrule/characters/octavius/) and speak with Den Gru'le ensure they were supplied properly. She would sometimes poison game with her magic-imbued arrows so that when she sold it in the market it would lose all trace to her and spread sickness within the village so she could harvest more torhment.
+ 
+She would spend her evenings in the Taverns talking to the young adults of the village, seducing many of them. Usually, to maintain a reasonable disguise sometimes she would gain their favor and encourage them to into the forest where they would be captured, tortured, and sacrificed. Others she would encourage to stay out of the forest to ensure they didn't amass a force. She was always very observant and careful to ensure her public image wasn't being tarnished and that the villagers didn't suspect her. She would use her torment to summon little demons no bigger than insects or some birds that would spy on the villagers and report back to her. As well in the nighttime, she would sometimes summon larger demons to help her rob stores and warehouses to bring supplies back to the Caverns of Den Gru'le.
+ 
+While Olivia was the liaison to the villagers the Hand of Den Gru'le thrived!
+
+## Taboos
+When the constant threat of manipulative men became too much Olivia would sneak out of the [Caverns of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/cavernsofdengrule/) and run off into the woods. Her favorite spot was a large boulder that hung out over a small river in a clearing. She would rest on the rock and let the gentle sun warm her chest, soaking in what little bit of daylight she could get with her toes in the water. Listening to the water pop and splash as it rolled over the smooth river stones. She'd wait there as long as she could before [Octavius](/magusTerraWiki/zones/southlands/cavernsofdengrule/characters/octavius/) would inevitably come hunting her down in his blood-stained clothes to bring her back home to safety.
+ 
+One day she heard a dull thud in the distance. Her eyes shot open at the interruption and she quickly surveyed the area ensuring she remained undiscovered. She didn't notice anything but another thud came shortly after. She got up from her perch and squatted into a low crouch as she moved to the nearest tree. A third thud hit. Now she was intrigued. She floated from tree to tree moving towards the source of the thuds, they formed a hypnotic beat that reminded her of the drip treatments she and Octavius would perform on their subjects. Then she saw it, a thin 2-meter-long shaft of wood tied together with a single string glinting in the sun like a spiderweb in the dew, held by a young archer. She had to have it, something about the graceful curve of the bow called to her. Thud, the rhythm continued as he loosed another arrow into the tree some 100 meters away.
+ 
+The archer still hadn't developed any facial hair unlike the grizzled warlocks in The Caverns, his arm quivered under the strain of the bow, and the spread of his arrows made it clear why he was out here practicing. Olivia was much more skilled at her craft than this boy was at his. She quickly devised a plan, picked up a small branch the size of her arm, and began her approach taking care to avoid any rogue twigs that could alert her quarry. Once she was within reach of the archer she ripped two arrows out of his quiver and plunged them into his feet. He yelled out in pain and dropped the bow but she was ready, shoving the branch into his mouth and pushing him to the ground to muffle the scream. Face in the dirt she finished pinning him to the ground with two more arrows in his hands. She could feel the rush of Torhment flow into her body as she drank in his pain. He was defenseless ready for harvesting and the bow was all hers. She took her time torturing him in various ways building up her reservoir of Torhment until Octavius showed up as he always did and took her back to the caverns with the boy in tow.
+ 
+After that day Octavius knew that she could handle herself so he was much more lenient with her excursions, especially since she was more determined than ever to practice with her new bow. She would go out and practice several times a week setting up all sorts of clever obstacles and targets to practice different skills. As she grew older she was able to start hunting, which the chef back in The Caverns greatly appreciated. Once she mastered archery she looked for more ways to improve and developed a new style of magic incorporating it into her archery. She could imbue the tips of her arrows with the Fel energy so that the target would be immobilized by excruciating pain when hit. Or she could poison the meat of her kills with an imperceivable type of plague that she could then distribute amongst the villagers. Then harvest the Torhment generated by this pain to summon demons to help her do her bidding.
+
+# Personality Characteristics
+## Likes & Dislikes
+### Likes
+1. Bonfires
+2. Listening to Rivers/Moving Water
+3. A Good Ale at the Tavern
+4. Talking with Octavius
+5. Torturing People
+### Dislikes
+1. Most of the other Warlocks in the [Hand of Den Gru'le](/magusTerraWiki/zones/southlands/cavernsofdengrule/handofdengrule/)
+2. Humid Days
+3. Cooking
+4. Windy Days

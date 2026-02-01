@@ -9,6 +9,8 @@ The Crater of Volariso was created during the [Dereliction of Terrkanei](/magusT
 The devastation from the [Dereliction of Terrkanei](/magusTerraWiki/zones/volariso/dereliction/) came unnervingly close to the **Imboivar Sea** leaving a relatively thin wall of land preventing the sea from coming crashing in to the crater. Such an event would be unimaginable, absolute devastation, villages swept away, thousands drowned and with the crater being as large as it is the global sea level would drop, admittedly it wouldn't be too drastic of a drop but certain ecosystems such as the archipelagos, swamps, tidal pools and undersea establishments could be significantly effected. 
 In the interest of preserving their own ecosystems an alliance of Bezmertan, Merfolk, Naga and Mages has been formed to protect this wall from fiends attempting to sow chaos into the world.   
 
+
+
 # Factions
 ## Sentinels of Terrkanei
 After the [Dereliction of Terrkanei](/magusTerraWiki/zones/volariso/dereliction/) the top remaining mages of [Terrkanei](/magusTerraWiki/worldtrees/terrkanei) unanimously decided that strict protections were needed to ensure the safety of Terrkanei, the arcane, and Magusterra as a whole. If Terrkanei was destroyed by some other freak accident the repercussions were incalculable. Thus they developed the Sentinels of Terrkanei, an elite group of battle mages vehemently devoted to protecting Terrkanei. They were initially stationed immediately around Terrkanei but as they had time to expand their ranks they were able to deploy Sentinels down into the Crater, and soon they were a fully occupying force.  

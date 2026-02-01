@@ -1,0 +1,30 @@
+---
+title: Test Title
+description: Test Description
+# layout: ../../../pages/mainContentLayout.astro
+icon:  terrain/floatingIsland
+slug: what
+sidebar:
+    label: My Label
+    icon: i-wi:moon-waning-crescent-3
+---
+import { Card } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
+import myImage from '../../../assets/Magusterra.png'
+
+
+## Further reading
+
+- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+
+<Card title="Extra Info:">
+    {/* <Image src={myImage} alt="MagusTerra World Map"   class="header-image"/> */}
+    #### Current Location
+    Caverns of Den Gru'le
+
+    #### Age 
+    Late 20s
+
+    #### Gender
+    Female
+</Card>
