@@ -140,6 +140,25 @@ export default defineConfig({
 									},
 								],
 							}, // end of seacliff
+							{
+								label: "Volcanic Fields",
+								collapsed: true,
+								items:
+									[
+										{ icon: 'i-game-icons:night-sky', label: 'Tim the Hermit', slug: 'zones/volcanicfields/timthehermit' },
+										{
+											label: 'Wildlife',
+											collapsed: true,
+											items:
+												[
+													{ icon: 'i-game-icons:night-sky', label: 'Vampiric Moss', slug: 'zones/volcanicfields/wildlife/vampiricmoss' },
+													{ icon: 'i-game-icons:night-sky', label: 'Pokey', slug: 'zones/volcanicfields/wildlife/pokey' },
+													{ icon: 'i-game-icons:night-sky', label: 'Rock Sponge', slug: 'zones/volcanicfields/wildlife/rocksponge' },
+												]
+										}
+									]
+
+							}// end of Volcanic Fields
 						]
 					},
 					{
