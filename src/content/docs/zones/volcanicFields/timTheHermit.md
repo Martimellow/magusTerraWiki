@@ -1,5 +1,6 @@
 ---
 title: Tim The Hermit
+icon: people/person
 ---
 # Mental characteristics
 ## Intellectual Characteristics

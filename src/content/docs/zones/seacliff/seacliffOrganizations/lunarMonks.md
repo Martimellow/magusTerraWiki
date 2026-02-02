@@ -1,5 +1,6 @@
 ---
 title: Lunar Monks
+icon: people/group
 bannerImage: /maps/snowRegion.png
 ---
 The Lunar Monks are some of the most noteworthy organizations of [SeaCliff](/magusTerraWiki/zones/seacliff/seacliff/)  , through hundreds of years of study and observance of the two Moons that orbit MagusTerr the Lunar Monks have learned to harness some of the powers of the moons possess through a form of martial arts. By mimicking the fluid motion of the waves that are so prevalent on the shores of SeaCliff the Lunar Monks are allowed to channel the power of the Moons, using their bodies as a form of conduit that allows them to direct these powers.

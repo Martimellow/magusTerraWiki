@@ -1,5 +1,6 @@
 ---
 title: Seacliff
+icon: terrain/seaCliff
 bannerImage: /maps/snowRegion.png
 ---
 

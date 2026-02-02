@@ -1,5 +1,6 @@
 ---
 title: Cliftons
+icon: people/person
 bannerImage: /maps/snowRegion.png
 ---
 

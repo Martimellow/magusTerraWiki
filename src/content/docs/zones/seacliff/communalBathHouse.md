@@ -1,5 +1,6 @@
 ---
 title: Communal Bath House
+icon: building/longHouse
 bannerImage: /maps/snowRegion.png
 ---
 The village of [SeaCliff](/magusTerraWiki/zones/seacliff/seacliff/) is located on a coastal cliff side in a frosty wasteland. The villagers settled here because of a single hot spring at the top of the cliff that provides some much-needed warmth to the area. The town turned this hot spring into a Communal Bath House. It would be too complicated to provide plumbing to each individual dwelling and the water would cool off too much by that time.

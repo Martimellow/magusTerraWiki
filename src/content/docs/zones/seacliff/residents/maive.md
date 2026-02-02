@@ -1,5 +1,6 @@
 ---
 title: Maive
+icon: people/person
 bannerImage: /maps/snowRegion.png
 subHeading: Master Lunar Monk Maive
 ---

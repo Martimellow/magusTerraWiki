@@ -110,15 +110,15 @@ export default defineConfig({
 								label: 'Seacliff',
 								collapsed: true,
 								items: [
-									{ icon: 'i-game-icons:night-sky', label: 'Seacliff', slug: 'zones/seacliff/seacliff' },
-									{ icon: 'i-game-icons:herbs-bundle', label: 'Communal Bath House', slug: 'zones/seacliff/communalbathhouse' },
+									{ icon: 'i-game-icons:sea-cliff', label: 'Seacliff', slug: 'zones/seacliff/seacliff' },
+									{ icon: 'i-game-icons:viking-longhouse', label: 'Communal Bath House', slug: 'zones/seacliff/communalbathhouse' },
 									{
 										label: 'Organizations',
 										collapsed: true,
 										items:
 											[
-												{ icon: 'i-game-icons:night-sky', label: 'Lunar Monks', slug: 'zones/seacliff/seaclifforganizations/lunarmonks' },
-												{ icon: 'i-game-icons:night-sky', label: 'Council of Elders', slug: 'zones/seacliff/seaclifforganizations/councilofelders' },
+												{ icon: 'i-game-icons:dark-squad', label: 'Lunar Monks', slug: 'zones/seacliff/seaclifforganizations/lunarmonks' },
+												{ icon: 'i-game-icons:dark-squad', label: 'Council of Elders', slug: 'zones/seacliff/seaclifforganizations/councilofelders' },
 											]
 									},
 									{
@@ -126,8 +126,8 @@ export default defineConfig({
 										collapsed: true,
 										items:
 											[
-												{ icon: 'i-game-icons:night-sky', label: 'Maive', slug: 'zones/seacliff/residents/maive' },
-												{ icon: 'i-game-icons:night-sky', label: 'Cliftons', slug: 'zones/seacliff/residents/cliftons' },
+												{ icon: 'i-game-icons:person', label: 'Maive', slug: 'zones/seacliff/residents/maive' },
+												{ icon: 'i-game-icons:person', label: 'Cliftons', slug: 'zones/seacliff/residents/cliftons' },
 											]
 									},
 									{
@@ -135,7 +135,7 @@ export default defineConfig({
 										collapsed: true,
 										items:
 											[
-												{ icon: 'i-game-icons:night-sky', label: 'Ironwood Trees', slug: 'zones/seacliff/wildlife/ironwoodtrees' },
+												{ icon: 'i-game-icons:pine-tree', label: 'Ironwood Trees', slug: 'zones/seacliff/wildlife/ironwoodtrees' },
 											]
 									},
 								],
@@ -145,15 +145,15 @@ export default defineConfig({
 								collapsed: true,
 								items:
 									[
-										{ icon: 'i-game-icons:night-sky', label: 'Tim the Hermit', slug: 'zones/volcanicfields/timthehermit' },
+										{ icon: 'i-game-icons:person', label: 'Tim the Hermit', slug: 'zones/volcanicfields/timthehermit' },
 										{
 											label: 'Wildlife',
 											collapsed: true,
 											items:
 												[
-													{ icon: 'i-game-icons:night-sky', label: 'Vampiric Moss', slug: 'zones/volcanicfields/wildlife/vampiricmoss' },
-													{ icon: 'i-game-icons:night-sky', label: 'Pokey', slug: 'zones/volcanicfields/wildlife/pokey' },
-													{ icon: 'i-game-icons:night-sky', label: 'Rock Sponge', slug: 'zones/volcanicfields/wildlife/rocksponge' },
+													{ icon: 'i-game-icons:interlaced-tentacles', label: 'Vampiric Moss', slug: 'zones/volcanicfields/wildlife/vampiricmoss' },
+													{ icon: 'i-game-icons:cactus-pot', label: 'Pokey', slug: 'zones/volcanicfields/wildlife/pokey' },
+													{ icon: 'i-game-icons:smoking-volcano', label: 'Rock Sponge', slug: 'zones/volcanicfields/wildlife/rocksponge' },
 												]
 										}
 									]

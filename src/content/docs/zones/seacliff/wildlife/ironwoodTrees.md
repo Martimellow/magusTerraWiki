@@ -1,5 +1,6 @@
 ---
 title: Ironwood Trees
+icon: plant/pineTree
 bannerImage: /maps/snowRegion.png
 ---
 

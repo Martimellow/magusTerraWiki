@@ -1,5 +1,6 @@
 ---
 title: Vampiric Moss
+icon: plant/tendrils
 ---
 Vampiric moss doesn't look like the conventional moss one might see in greener settings. but rather it looks much like blood veins with a rich red hue due to the animal blood flowing through it. These vines attach to animals using thousands of small thorns that hook onto the animal to keep the vine secured. Furthermore, there are circular patches that are an even brighter hue of red due to the excess blood, this is where the organism stabs its needle-like probes into the host to consume its blood.
 

@@ -1,5 +1,6 @@
 ---
 title: Council of Elders
+icon: people/group
 bannerImage: /maps/snowRegion.png
 ---
 
