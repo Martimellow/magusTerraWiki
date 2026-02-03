@@ -1,6 +1,7 @@
 ---
 title: Crater of Volariso
 icon: terrain/crater
+pronunciation: voh-la-REE-so
 ---
 The Crater of Volariso was created during the [Dereliction of Terrkanei](/magusTerraWiki/zones/volariso/dereliction/), when the mountain range exploded it left an expansive crater filled with its own mountains, pits and magical anomalies. 
 

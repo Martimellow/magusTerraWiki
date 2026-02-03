@@ -2,7 +2,7 @@
 title: Efos
 icon: creature/talon
 inspirationLink: https://www.pinterest.com/phacee7/efos-inspiration/
-pronunciation: Eh-foce
+pronunciation: eh-FOS
 ---
 
 The Efos are Avion People, they have the same general stature as a human but they are covered in feathers, they have the head of a bird of prey and their arms are wings with hands. Their home cities are typically built atop and spanning across multiple mesas and buttes at the time, hindering any unwelcome visitors from getting to them, or if somehow an unwelcome visitor got in their mobility would be severely limited.

@@ -1,6 +1,7 @@
 ---
 title: "Terrginnan: The Tree of Beginning"
 icon: plant/pineTree
+pronunciation: TERR-gin-nan
 ---
 Terrginnan is the tree of Beginning, when Magusterra was first created it was a dense mass of hot rock, until the seed that would be known as Terrginnan took root. It was the first source of life on the planet, and as it grew it infused the planet with a source of life and potential, it allowed Magusterra to grow and evolve into the planet it is today. 
 

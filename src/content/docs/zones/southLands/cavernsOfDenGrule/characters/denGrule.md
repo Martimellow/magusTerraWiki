@@ -3,6 +3,7 @@ title: Den Gru'le
 icon: people/person
 bannerImage: /maps/southlands.png
 subHeading: Arch Warlock Den Gru'le
+pronunciation: DEN-grool
 ---
 # Physical Description
 ## Apparel & Accessories
